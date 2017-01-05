@@ -1,0 +1,2 @@
+# goxmpp-lib
+XMPP library
